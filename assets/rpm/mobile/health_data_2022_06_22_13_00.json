@@ -1,0 +1,68 @@
+[
+  {
+    "value": 1.0,
+    "data_type": "weight",
+    "unit": "kilograms",
+    "date_from": "2022-05-20 11:31:42",
+    "date_to": "2022-05-20 11:31:42",
+    "platform_type": "android",
+    "device_id": "845eac5e8ff4d5a0",
+    "source_id": "raw:com.google.weight:com.navierre.navierreapp:Xiaomi:M2101K7AG:f559c4d:",
+    "source_name": "com.navierre.navierreapp"
+  },
+  {
+    "value": 15.0,
+    "data_type": "weight",
+    "unit": "kilograms",
+    "date_from": "2022-05-20 15:35:13",
+    "date_to": "2022-05-20 15:35:13",
+    "platform_type": "android",
+    "device_id": "845eac5e8ff4d5a0",
+    "source_id": "raw:com.google.weight:com.navierre.navierreapp:Xiaomi:M2101K7AG:f559c4d:",
+    "source_name": "com.navierre.navierreapp"
+  },
+  {
+    "value": 2.0,
+    "data_type": "height",
+    "unit": "meters",
+    "date_from": "2022-05-20 11:31:42",
+    "date_to": "2022-05-20 11:31:42",
+    "platform_type": "android",
+    "device_id": "845eac5e8ff4d5a0",
+    "source_id": "raw:com.google.height:com.navierre.navierreapp:Xiaomi:M2101K7AG:f559c4d:",
+    "source_name": "com.navierre.navierreapp"
+  },
+  {
+    "value": 2.0,
+    "data_type": "height",
+    "unit": "meters",
+    "date_from": "2022-05-20 15:35:13",
+    "date_to": "2022-05-20 15:35:13",
+    "platform_type": "android",
+    "device_id": "845eac5e8ff4d5a0",
+    "source_id": "raw:com.google.height:com.navierre.navierreapp:Xiaomi:M2101K7AG:f559c4d:",
+    "source_name": "com.navierre.navierreapp"
+  },
+  {
+    "value": 3.0,
+    "data_type": "body_fat_percentage",
+    "unit": "percentage",
+    "date_from": "2022-05-20 11:31:42",
+    "date_to": "2022-05-20 11:31:42",
+    "platform_type": "android",
+    "device_id": "845eac5e8ff4d5a0",
+    "source_id": "raw:com.google.body.fat.percentage:com.navierre.navierreapp:Xiaomi:M2101K7AG:f559c4d:",
+    "source_name": "com.navierre.navierreapp"
+  },
+  {
+    "value": 3.0,
+    "data_type": "body_fat_percentage",
+    "unit": "percentage",
+    "date_from": "2022-05-20 15:35:13",
+    "date_to": "2022-05-20 15:35:13",
+    "platform_type": "android",
+    "device_id": "845eac5e8ff4d5a0",
+    "source_id": "raw:com.google.body.fat.percentage:com.navierre.navierreapp:Xiaomi:M2101K7AG:f559c4d:",
+    "source_name": "com.navierre.navierreapp"
+  }
+]
